@@ -12,5 +12,4 @@ Copying OpenLanguage with Compose...
 
 
 
-https://user-images.githubusercontent.com/1758864/172058835-4bf5e209-78f8-49ad-8cd7-1a3b32cd9b2f.mp4
-
+![MyOpenLanguage](https://user-images.githubusercontent.com/1758864/173231694-365d9ade-3107-4289-9e30-24672c1626d4.gif)
