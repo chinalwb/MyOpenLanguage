@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyOpenLanguage</string>
+
+    <string name="home_bottomNavBar_study_contentDescription">Study</string>
+</resources>

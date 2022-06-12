@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/java/com/chinalwb/myopenlanguage/MyOpenLanguageApp.kt" value="0.33" />
+        <entry key="app/src/main/java/com/chinalwb/myopenlanguage/components/AudioPlayComponent.kt" value="0.5" />
+        <entry key="app/src/main/java/com/chinalwb/myopenlanguage/components/RollerAnimatorComponent.kt" value="0.5" />
+        <entry key="app/src/main/java/com/chinalwb/myopenlanguage/components/RoundButtonComponent.kt" value="0.5" />
+        <entry key="app/src/main/java/com/chinalwb/myopenlanguage/components/Test.kt" value="0.67" />
+        <entry key="app/src/main/java/com/chinalwb/myopenlanguage/components/TextCarousel.kt" value="0.55" />
+        <entry key="app/src/main/java/com/chinalwb/myopenlanguage/screens/StudyScreen.kt" value="0.5" />
+        <entry key="app/src/main/res/drawable/ic_baseline_insights_24.xml" value="0.1795" />
+        <entry key="app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.2995" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1795" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.29393115942028986" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
